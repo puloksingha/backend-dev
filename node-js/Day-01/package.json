@@ -1,0 +1,13 @@
+{
+  "name": "under-the-hood",
+  "version": "1.0.0",
+  "description": "day-01",
+  "license": "ISC",
+  "author": "pulok singha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  }
+}
