@@ -9,6 +9,8 @@ A learning repository for backend development using **Node.js** (JavaScript). Th
   - `Day-02/` — Core modules + npm practice (code + notes)
   - `Day-03/` — (practice)
   - `Day-04/` — (practice)
+  - `Day-05/` — (practice)
+  - `Day-06/` — (practice)
 
 ## Getting started
 
@@ -35,6 +37,10 @@ npm start
 
 - Day 01 notes: `node-js/Day-01/notes_01.md`
 - Day 02 notes: `node-js/Day-02/notes_02.md`
+- Day 03 notes: `node-js/Day-03/notes_03.md`
+- Day 04 notes: `node-js/Day-04/notes_04.md`
+- Day 05 notes: `node-js/Day-05/notes_05.md`
+- Day 06 notes: `node-js/Day-06/notes_06.md`
 
 ## License
 
