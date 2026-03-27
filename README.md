@@ -11,6 +11,7 @@ A learning repository for backend development using **Node.js** (JavaScript). Th
   - `Day-04/` — (practice)
   - `Day-05/` — (practice)
   - `Day-06/` — (practice)
+  - `Day-07/` — Event loop and async runtime (notes)
 
 ## Getting started
 
@@ -41,6 +42,7 @@ npm start
 - Day 04 notes: `node-js/Day-04/notes_04.md`
 - Day 05 notes: `node-js/Day-05/notes_05.md`
 - Day 06 notes: `node-js/Day-06/notes_06.md`
+- Day 07 notes: `node-js/Day-07/notes_07.md`
 
 ## License
 
