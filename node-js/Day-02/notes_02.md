@@ -348,6 +348,30 @@ Prefer async methods in server applications.
 
 ---
 
+## Day 02 Practice Script Walkthrough
+
+The file [index.js](index.js) in this folder demonstrates the main ideas from Day 02:
+
+- It imports built-in modules with `require()`
+- It defines local helper functions like `add()` and `subtract()`
+- It prints system details using the `os` module
+- It uses `path.join()` to build a safe file path
+- It writes to and reads from `sample.txt` using `fs`
+
+What happens when the script runs:
+
+1. `main()` starts the program
+2. `showSystemInfo()` prints platform, architecture, and CPU count
+3. `runMathDemo()` shows a simple local module-style function example
+4. `runFileDemo()` creates `sample.txt` and reads it back asynchronously
+
+Important lesson:
+
+- Use `path.join(__dirname, ...)` so file paths work on Windows, macOS, and Linux
+- Use async `fs` methods in backend apps when possible so the event loop is not blocked
+
+---
+
 ## Practical Mini Project Structure
 
 ```
